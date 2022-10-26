@@ -1,6 +1,6 @@
 # Hello! 
 
-<img src="https://i1.wp.com/handluggageonly.co.uk/wp-content/uploads/2017/07/iStock-147710418.jpg?fit=1600%2C2400&ssl=1" align="left" width=50% height=50%  >
+<img src="https://i1.wp.com/handluggageonly.co.uk/wp-content/uploads/2017/07/iStock-147710418.jpg?fit=1600%2C2400&ssl=1" align="left" width=50% height=55%  >
 
 
 
