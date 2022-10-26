@@ -27,7 +27,7 @@ My Name is Max and I am currently a Student learning Java with and for Uni.
 ---
 
 <p align="center">
-📘 Learning: past and present<br /><br />
+📘 Learning: past and present<br />
     <img src="https://skills.thijs.gg/icons?i=html,css,py,bots,ruby" width=20% height=20%  />
 </p>
 
