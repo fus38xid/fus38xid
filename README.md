@@ -4,7 +4,7 @@
 
 
 
-My Name is Max and I am currently studying Computer Science in Duesseldorf.
+My Name is Max and I am currently studying Computer Science in Duesseldorf, Germany.
 <br />  I am always excited to learn new languages and new concepts as it helps me progress while also allowing me to build cool new things. I love visiting other Countries and listening to Music.
 
 ---
