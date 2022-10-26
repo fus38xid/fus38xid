@@ -24,15 +24,7 @@ My Name is Max and I am currently a Student learning Java with and for Uni.
   <img src="https://user-images.githubusercontent.com/113844823/198096926-63265993-b80e-48de-9572-cc8bbaf68960.png"  width=40% height=40% >
 </p>
 
----
-
 <p align="center">
 📘 Learning: past and present<br />
     <img src="https://skills.thijs.gg/icons?i=html,css,py,bots,ruby" width=20% height=20%  />
 </p>
-
-
-
-     
-
-
