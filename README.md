@@ -26,5 +26,5 @@ My Name is Max and I am currently studying Computer Science in Duesseldorf, Germ
 
 <p align="center">
 📘 Learning: past and present<br />
-    <img src="https://skills.thijs.gg/icons?i=html,css,py,bots,ruby" width=20% height=20%  />
+    <img src="https://skills.thijs.gg/icons?i=html,css,py,bots,ruby,java" width=20% height=20%  />
 </p>
